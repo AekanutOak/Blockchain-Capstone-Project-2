@@ -2,5 +2,5 @@
 Blockchain Capstone Project semester 1/2023
 
 # Environments
-Python 3.9.13\n
+Python 3.9.13
 Ganache 2.7.1
